@@ -1,0 +1,6 @@
+
+{
+  "name": "MebCalc",
+  "description": "Bilimsel hesaplamalar, birim dönüştürücü ve Gemini tabanlı akıllı problem çözücü içeren gelişmiş bir mobil hesap makinesi.",
+  "requestFramePermissions": ["camera"]
+}
